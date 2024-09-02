@@ -1,0 +1,30 @@
+.nav-link{
+    color: whitesmoke!important;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: yes;
+}
+.nav-link:hover{
+    background-color: red;
+    transition: 1s all linear;
+    border-radius: 10px;
+}
+.navbar-brand{
+    font-family: noo;
+    font-size: 40px;
+    color:darkorange!important;
+    font-weight: bold;
+}
+@font-face {
+    font-family: yes;
+    src: url("./component/layout/godofwar\ \(1\)");
+}
+@font-face {
+    font-family: noo;
+    src: url("./component/layout/peristiwa/Peristiwa.otf");
+}
+.add-movie{
+    font-family: yes;
+    color: red;
+    font-weight: bold;
+}
